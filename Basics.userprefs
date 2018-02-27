@@ -1,0 +1,30 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\shaders\Island_Ocean.shader">
+    <Files>
+      <File FileName="Assets\Standard Assets\Characters\FirstPersonCharacter\Scripts\FirstPersonController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Standard Assets\CrossPlatformInput\Scripts\CrossPlatformInputManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Standard Assets\Utility\FOVKick.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\playerControllerLevel00.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\platMovement.cs" Line="1" Column="1" />
+      <File FileName="Assets\Standard Assets\Characters\ThirdPersonCharacter\Scripts\ThirdPersonCharacter.cs" Line="1" Column="1" />
+      <File FileName="Assets\Standard Assets\Characters\ThirdPersonCharacter\Scripts\ThirdPersonUserControl.cs" Line="1" Column="1" />
+      <File FileName="Assets\Standard Assets\Utility\SimpleMouseRotator.cs" Line="11" Column="41" />
+      <File FileName="Assets\scripts\MouseLook.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\Scene3.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\Ocean.cs" Line="71" Column="1" />
+      <File FileName="Assets\scripts\cylinderMovement.cs" Line="14" Column="20" />
+      <File FileName="Assets\scripts\Collectibles_score.cs" Line="10" Column="8" />
+      <File FileName="Assets\scripts\redExitScript.cs" Line="20" Column="22" />
+      <File FileName="Assets\shaders\Island_Ocean.shader" Line="131" Column="4" />
+      <File FileName="Assets\Scenes\MainMenu.cs" Line="8" Column="2" />
+      <File FileName="Assets\scripts\levelMusic.cs" Line="1" Column="1" />
+      <File FileName="Assets\deathScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\shaders\CardboardDistortion.cginc" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
